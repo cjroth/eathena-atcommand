@@ -2,15 +2,15 @@
 
 /*
  * eAthena Remote Command v1.0
- * 
+ *
  * eAthena Remote Command is distributed is FREE PUBLIC SOFTWARE
  * meaning that you are free to modify and distribute it
  * as long as you do not charge any sum of money. Please
  * do not take the initial credit away from kaoskorruption
  * for the PHP portion of this script.
- * 
- * For more information contact kaoskorruption on AIM, or e-mail
- * me at kaoskorruption@gmail.com.
+ *
+ * For more information contact chris@cjroth.com.
+ *
  */
 
 error_reporting ( 0 );
